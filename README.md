@@ -1,7 +1,7 @@
 ### Hi there, I'm Sebastian - aka cbass
 ## I'm a full time student at CSULB!
 
-- 📚 I’m currently learning Web Development and C!
+- 📚 I’m currently learning F# and C!
 <br />
 
 
